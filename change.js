@@ -1,1 +1,1 @@
-config.log("version 1");
+config.log("version 11");
