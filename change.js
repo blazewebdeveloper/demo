@@ -1,1 +1,1 @@
-config.log("version 1 ko nyaa fgfgf");
+config.log("version 1");
